@@ -7,7 +7,7 @@
 
 - 🎓‍ computer engineering student at ferdowsi university of mashhad
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **TypeScript**
 
 
 - 📩 How to reach me **ghajarimohammad057@gmail.com**
