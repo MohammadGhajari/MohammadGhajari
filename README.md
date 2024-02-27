@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A frontend learner</h3>
+<h3 align="center">A web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadghajari&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadghajari" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🎓‍ computer engineering student at ferdowsi university of mashhad
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Node js**
 
 
 - 📩 How to reach me **ghajarimohammad057@gmail.com**
