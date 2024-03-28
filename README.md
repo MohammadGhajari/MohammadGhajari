@@ -1,4 +1,4 @@
-![image](https://github.com/MohammadGhajari/MohammadGhajari/assets/99676228/33e82e77-ea3a-41d0-ad82-f312a3b87a04)<h1 align="center">Hi 👋, I'm Mohammad</h1>
+<h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadghajari&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadghajari" /> </p>
