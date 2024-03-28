@@ -35,7 +35,7 @@
     <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo db" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1174935.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMTg5NDIyMCwicSI6bnVsbCwiaWF0IjoxNzExNjM1MDIwfQ__.d1a98cd3b502b983cc9d8f12df218440026a17e790c30b50c3628a5b0909b62e" alt="Node js" width="40" height="40"/> </a> 
      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> </a>
-     <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-64.png" alt="Pug js" width="40" height="40"/> </a>
+     <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-256.png" alt="Pug js" width="40" height="40"/> </a>
     
 </p>
 
