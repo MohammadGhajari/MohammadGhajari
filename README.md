@@ -28,13 +28,13 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-3521774-2945272.png?f=webp&w=256" alt="typescript" width="40" height="40"/> </a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1174935.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMTg5NDIyMCwicSI6bnVsbCwiaWF0IjoxNzExNjM1MDIwfQ__.d1a98cd3b502b983cc9d8f12df218440026a17e790c30b50c3628a5b0909b62e" alt="Node js" width="40" height="40"/> </a>
+    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo db" width="40" height="40"/> </a> 
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="react-redux" width="40" height="40"/> </a> 
     <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react-router" width="40" height="40"/> </a> 
     <a href="https://www.styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/s/10/styled-components.svg" alt="styled-component" width="40" height="40"/> </a> 
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-226054.png?f=webp&w=256" alt="Sass" width="40" height="40"/> </a> 
-    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo db" width="40" height="40"/> </a> 
-     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> </a>
-     <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-256.png" alt="Pug js" width="40" height="40"/> </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> </a>
+    <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-256.png" alt="Pug js" width="40" height="40"/> </a>
     
 </p>
 
