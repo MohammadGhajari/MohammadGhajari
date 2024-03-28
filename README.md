@@ -32,6 +32,7 @@
     <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react-router" width="40" height="40"/> </a> 
     <a href="https://www.styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/s/10/styled-components.svg" alt="styled-component" width="40" height="40"/> </a> 
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-226054.png?f=webp&w=256" alt="Sass" width="40" height="40"/> </a> 
+    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo db" width="40" height="40"/> </a> 
     
 </p>
 
