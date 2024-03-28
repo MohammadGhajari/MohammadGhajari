@@ -34,6 +34,7 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-226054.png?f=webp&w=256" alt="Sass" width="40" height="40"/> </a> 
     <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo db" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1174935.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcxMTg5NDIyMCwicSI6bnVsbCwiaWF0IjoxNzExNjM1MDIwfQ__.d1a98cd3b502b983cc9d8f12df218440026a17e790c30b50c3628a5b0909b62e" alt="Node js" width="40" height="40"/> </a> 
+     <a href="https://https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express js" width="40" height="40"/> </a>
     
 </p>
 
