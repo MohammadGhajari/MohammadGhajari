@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A MERN Stack</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadghajari&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadghajari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadghajari" alt="mohammadghajari" /></a> </p>
 
-- 🎓‍ computer engineering student at ferdowsi university of mashhad
+🎓‍ computer engineering student at ferdowsi university of mashhad
 
-
-
-- 📩 How to reach me **ghajarimohammad057@gmail.com**
+📩 How to reach me **ghajarimohammad057@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
