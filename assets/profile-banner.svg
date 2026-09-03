@@ -1,0 +1,65 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammad Ghajari — Full-Stack Developer</title>
+  <desc id="desc">A dark blue and green developer profile banner with abstract code-inspired shapes.</desc>
+  <defs>
+    <linearGradient id="background" x1="80" y1="0" x2="1120" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0D2031"/>
+      <stop offset="1" stop-color="#071A18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="351" y1="116" x2="850" y2="253" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(191 36) rotate(38) scale(379 268)">
+      <stop stop-color="#1F6FEB" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1065 336) rotate(-140) scale(390 260)">
+      <stop stop-color="#2EA043" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#2EA043" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#8B949E" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowBlue)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowGreen)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#58A6FF" stroke-opacity="0.18" stroke-width="2"/>
+
+  <g opacity="0.72">
+    <circle cx="64" cy="62" r="6" fill="#FF7B72"/>
+    <circle cx="86" cy="62" r="6" fill="#D29922"/>
+    <circle cx="108" cy="62" r="6" fill="#3FB950"/>
+    <path d="M67 292L25 250L67 208" stroke="#58A6FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1133 68L1175 110L1133 152" stroke="#3FB950" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M109 314L146 184" stroke="#8B949E" stroke-opacity="0.4" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="266" y="54" width="668" height="252" rx="24" fill="#0D1117" fill-opacity="0.72"/>
+    <rect x="267" y="55" width="666" height="250" rx="23" stroke="url(#accent)" stroke-opacity="0.3" stroke-width="2"/>
+  </g>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="130" fill="#8B949E" font-size="19" font-weight="600" letter-spacing="5">HELLO, I'M</text>
+    <text x="600" y="194" fill="#F0F6FC" font-size="54" font-weight="750" letter-spacing="1">Mohammad Ghajari</text>
+    <rect x="386" y="222" width="428" height="2" rx="1" fill="url(#accent)" opacity="0.85"/>
+    <text x="600" y="264" fill="url(#accent)" font-size="23" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+  </g>
+
+  <g fill="#8B949E" opacity="0.45">
+    <circle cx="207" cy="107" r="3"/>
+    <circle cx="991" cy="110" r="3"/>
+    <circle cx="1030" cy="217" r="3"/>
+    <circle cx="191" cy="246" r="3"/>
+    <circle cx="1074" cy="277" r="3"/>
+    <circle cx="152" cy="157" r="3"/>
+  </g>
+</svg>

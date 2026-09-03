@@ -1,44 +1,101 @@
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Mohammad Ghajari — Full-Stack Developer" />
+</div>
 
+<div align="center">
+  <a href="mailto:ghajarimohammad057@gmail.com">
+    <img src="https://img.shields.io/badge/Email-171B24?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://t.me/m_ghajari">
+    <img src="https://img.shields.io/badge/Telegram-171B24?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/ghajari_mohammad29">
+    <img src="https://img.shields.io/badge/Instagram-171B24?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohammadGhajari&label=Profile+views&color=238636&style=for-the-badge" alt="Profile views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadghajari&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadghajari" /> </p>
+<br />
 
+## About me
 
-🎓‍ computer engineering student at ferdowsi university of mashhad
+I'm a Computer Engineering student at Ferdowsi University of Mashhad and a full-stack developer who enjoys turning complex ideas into clean, reliable products. I care about thoughtful interfaces, maintainable architecture, backend performance, and the small details that make software feel polished.
 
-📩 How to reach me **ghajarimohammad057@gmail.com**
+```javascript
+const mohammad = {
+  location: "Mashhad, Iran",
+  education: "Computer Engineering @ Ferdowsi University of Mashhad",
+  focus: ["Full-Stack Development", "Product Engineering", "Scalable Backends"],
+  currentlyLearning: "A little more every day",
+};
+```
 
+## Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ghajari_mohammad29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daenerys_dracaryss" height="30" width="40" /></a>
-<a href="https://t.me/m_ghajari" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="m_ghajari" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-3521774-2945272.png?f=webp&w=256" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="Node js" width="40" height="40"/> </a>
-    <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="Mongo db" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express js" width="40" height="40"/> </a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="react-redux" width="40" height="40"/> </a> 
-    <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react-router" width="40" height="40"/> </a> 
-    <a href="https://www.styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/s/10/styled-components.svg" alt="styled-component" width="40" height="40"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-226054.png?f=webp&w=256" alt="Sass" width="40" height="40"/> </a> 
-    <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/dog-breed-minimal-gradient/512/Pug-256.png" alt="Pug js" width="40" height="40"/> </a>
-    
-</p>
+  **Frontend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadghajari&show_icons=true&locale=en&layout=compact" alt="mohammadghajari" /></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,sass,redux&theme=dark" alt="Frontend technologies" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadghajari&show_icons=true&locale=en" alt="mohammadghajari" /></p>
+  **Backend & Data**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadghajari&" alt="mohammadghajari" /></p> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies" />
 
+  **Languages & Tools**
+
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,postman&theme=dark" alt="Languages and tools" />
+
+</div>
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/MohammadGhajari/Luthien">Luthien</a></h3>
+      <p>A full-stack hotel reservation experience, built around a smooth and practical booking flow.</p>
+      <img src="https://img.shields.io/github/stars/MohammadGhajari/Luthien?style=flat-square&color=2EA043" alt="Luthien stars" />
+      <img src="https://img.shields.io/github/languages/top/MohammadGhajari/Luthien?style=flat-square&color=58A6FF" alt="Luthien top language" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/MohammadGhajari/Galad">Galad</a></h3>
+      <p>A React application for discovering, rating, and organizing books with the Google Books API.</p>
+      <img src="https://img.shields.io/github/stars/MohammadGhajari/Galad?style=flat-square&color=2EA043" alt="Galad stars" />
+      <img src="https://img.shields.io/github/languages/top/MohammadGhajari/Galad?style=flat-square&color=58A6FF" alt="Galad top language" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/MohammadGhajari/Information-Retrieval-Project">Rank Tracker</a></h3>
+      <p>A website analytics platform that tracks Google rankings for search queries using Selenium automation.</p>
+      <img src="https://img.shields.io/github/languages/top/MohammadGhajari/Information-Retrieval-Project?style=flat-square&color=58A6FF" alt="Rank Tracker top language" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/MohammadGhajari/Penny">Penny</a></h3>
+      <p>A focused personal-finance application for keeping everyday transactions organized and manageable.</p>
+      <img src="https://img.shields.io/github/languages/top/MohammadGhajari/Penny?style=flat-square&color=58A6FF" alt="Penny top language" />
+    </td>
+  </tr>
+</table>
+
+## GitHub activity
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadGhajari&theme=github_dark" alt="Mohammad's contribution overview" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadGhajari&theme=github_dark" alt="Mohammad's repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadGhajari&theme=github_dark" alt="Mohammad's GitHub statistics" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=MohammadGhajari&theme=github-dark-blue&hide_border=true" alt="Mohammad's GitHub streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Building useful things, one thoughtful commit at a time.</sub>
+</div>
